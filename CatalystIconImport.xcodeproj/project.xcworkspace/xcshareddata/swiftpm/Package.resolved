@@ -1,0 +1,42 @@
+{
+  "originHash" : "987039130e159bb9d817d489acc88b8cfe95e8ee9d74031c3726c6d022616ccc",
+  "pins" : [
+    {
+      "identity" : "cocoalumberjack",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CocoaLumberjack/CocoaLumberjack.git",
+      "state" : {
+        "revision" : "4b8714a7fb84d42393314ce897127b3939885ec3",
+        "version" : "3.8.5"
+      }
+    },
+    {
+      "identity" : "icon-packager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/malikov917/icon-packager",
+      "state" : {
+        "revision" : "4e42948b30e2dd195026c8799f6bd6dcb986a57b",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "svgkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SVGKit/SVGKit.git",
+      "state" : {
+        "revision" : "58152b9f7c85eab239160b36ffdfd364aa43d666",
+        "version" : "3.0.0"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log",
+      "state" : {
+        "revision" : "e97a6fcb1ab07462881ac165fdbb37f067e205d5",
+        "version" : "1.5.4"
+      }
+    }
+  ],
+  "version" : 3
+}

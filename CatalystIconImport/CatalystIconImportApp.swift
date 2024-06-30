@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct AnotherIconImportApp: App {
+struct CatalystIconImportApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
